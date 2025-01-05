@@ -1,0 +1,40 @@
+! Private Internet Access Start
+@@||www.privateinternetaccess.com^$important
+@@||api.privateinternetaccess.com^$important
+! Private Internet Access End
+! Youtube Start
+@@||www.youtube.com^$important
+@@||googlesyndication.com^$important
+@@||doubleclick.net^$important
+@@||googlesyndication.com^$important
+@@||data.microsoft.com^$important
+@@||googlesyndication.com^$important
+@@||v10.events.data.microsoft.com^$important
+@@||pagead2.googlesyndication.com^$important
+@@||googleads.g.doubleclick.net^$important
+@@||jnn-pa.googleapis.com^$important
+! Youtube End
+! Whatsapp Start
+@@||whatsapp.net^$important
+! Whatsapp End
+! Instagram Start
+@@||www.instagram.com^$important
+! Instagram End
+! Facebook Start
+@@||www.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||static.xx.fbcdn.net^$important
+@@||video.xx.fbcdn.net^$important
+@@||facebook.com^$important
+@@||xx.fbcdn.net^$important
+@@||scontent.xx.fbcdn.net^$important
+! Facbook End
+! Instagram Start
+@@||instagram.com^$important
+@@||static.cdninstagram.com^$important
+@@||cdninstagram.com^$important
+! Instagram End
+! Tailscale Start
+@@||tailscale.com^$important
+! Tailscale End
+
