@@ -37,4 +37,6 @@
 ! Tailscale Start
 @@||tailscale.com^$important
 ! Tailscale End
-
+! Whatsapp Start
+@@||web.whatsapp.com^$important
+! Whatsapp End
