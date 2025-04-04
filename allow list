@@ -1,3 +1,4 @@
+!------------------------------------------- Allow List
 ! Private Internet Access Start
 @@||www.privateinternetaccess.com^$important
 @@||api.privateinternetaccess.com^$important
@@ -48,3 +49,6 @@
 @@||family.cloudflare-dns.com
 @@||cfd-features.argotunnel.com
 ! CloudFlare
+
+!------------------------------------------- Block List
+||s0.2mdn.net^$important
